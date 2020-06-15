@@ -1,2 +1,2 @@
-# leatning-git
+# learning-git
 testing and learning
